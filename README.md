@@ -2,7 +2,7 @@
 
 - **Live Deployed App:** https://gradguide-course-assistant.vercel.app
 - **GitHub Repository:** https://github.com/Doli16/gradguide-course-assistant
-- **Video Walkthrough:** [INSERT_YOUR_LOOM_OR_YOUTUBE_LINK_HERE]
+- **Video Walkthrough:** https://www.loom.com/share/8a97ce23928948008053b0d4bc32ce5b
 
 ---
 
